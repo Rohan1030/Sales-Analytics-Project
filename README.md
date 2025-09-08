@@ -4,6 +4,8 @@ A comprehensive sales analytics dashboard built with Next.js 15, TypeScript, and
 
 ![Sales Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop&crop=center)
 
+# live link :- https://v0-sales-dashboard-project.vercel.app/
+
 ## 🚀 Features
 
 ### Core Functionality
